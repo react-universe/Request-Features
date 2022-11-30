@@ -4,6 +4,6 @@ const app = express()
 
 app.use(express.json())
 
-app.listen(24390,()=>{
+app.listen(2430,()=>{
     console.log("server start")
 })
